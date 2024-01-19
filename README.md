@@ -27,3 +27,7 @@ Run docker-compose.yml
 ``` bash
 docker-compose up -d
 ```
+
+Inbrowser
+--------------
+![Site Demo](https://github.com/AnishSubedi07/powerworkshop-DevOps/blob/main/images/inbrowser.png?raw=true)
